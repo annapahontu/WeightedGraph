@@ -8,8 +8,9 @@ To compile and run this project, you must have the Java Development Kit (JDK) in
 2. Open your terminal or command prompt.
 3. Navigate to the root directory of the project (the folder that contains the wgraph directory, not the wgraph directory itself).
 4. Compile all the .java files using the package path:
-   #
-      javac wgraph/*.java
+ ```
+javac wgraph/*.java
+```      
 5. Run the Main class using its fully qualified name
 6. The output will show the graph being built, printed, modified by vertex/edge removal, and printed again.
 
